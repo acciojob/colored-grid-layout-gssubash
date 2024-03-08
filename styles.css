@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 #grid{
-	width: 98.7vw;
-	height: 90vh;
+	/* width: 98.7vw; */
+	/* height: 90vh; */
 	margin: 0 auto;
 	display: grid;
-	grid-template-columns: repeat(4,1fr);
+	grid-template-columns: repeat(4,242.5px);
 	grid-template-rows: repeat(5,124px);
 	gap: 5px;
 	
