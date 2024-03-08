@@ -5,13 +5,13 @@
 	margin: 0 auto;
 	display: grid;
 	grid-template-columns: repeat(4,1fr);
-	grid-template-rows: repeat(5,1fr);
+	grid-template-rows: repeat(5,124px);
 	gap: 5px;
 	
 }
 
 #div1{
-	grid-column: 1/ span 4;
+	grid-column: span 4/ auto;
 	
 }
 #div2{
